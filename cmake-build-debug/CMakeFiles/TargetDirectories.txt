@@ -1,0 +1,3 @@
+/Users/martinalemajoh/Documents/programming-challanges-solution/cmake-build-debug/CMakeFiles/programming_challenges_solution.dir
+/Users/martinalemajoh/Documents/programming-challanges-solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/martinalemajoh/Documents/programming-challanges-solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
