@@ -1,9 +1,17 @@
 # ninja log v5
-1	972	1664662464037927213	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/sum_of_two_numbers.cpp.o	75691048803eac25
+4	359	1664676017478617889	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/sum_of_two_numbers.cpp.o	75691048803eac25
 3	670	1664662573148620950	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/sales_prediction.cpp.o	614b414647afced9
-0	975	1664662464037925776	CMakeFiles/programming_challenges_solution.dir/main.cpp.o	b0ecd3ceb244138f
-2	88	1664662493577500928	programming_challenges_solution	ebcd37dbeb100414
-3	77	1664662782245846824	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/sum_of_two_numbers.cpp.o	75691048803eac25
 4	78	1664662782248700140	CMakeFiles/programming_challenges_solution.dir/Chapter_3_Expression_and_Interactivity/sales_prediction.cpp.o	41d7577d01831501
-2	555	1664662782725490985	CMakeFiles/programming_challenges_solution.dir/main.cpp.o	b0ecd3ceb244138f
-555	631	1664662782803909026	programming_challenges_solution	1cdcb755561c82f1
+3	974	1664676018095683172	CMakeFiles/programming_challenges_solution.dir/main.cpp.o	b0ecd3ceb244138f
+974	1070	1664676018193645528	programming_challenges_solution	1cdcb755561c82f1
+5	61	1664676467076185259	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/solution.cpp.o	f7f7f7449ab094e4
+3	694	1664676467707574242	CMakeFiles/programming_challenges_solution.dir/main.cpp.o	b0ecd3ceb244138f
+4	90	1664676712131548934	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/solution.cpp.o	f7f7f7449ab094e4
+3	748	1664676712794798106	CMakeFiles/programming_challenges_solution.dir/main.cpp.o	b0ecd3ceb244138f
+748	825	1664676712873683535	programming_challenges_solution	b7b71bd315512277
+5	348	1664677085238602721	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/solution.cpp.o	f7f7f7449ab094e4
+4	1045	1664677085938416277	CMakeFiles/programming_challenges_solution.dir/main.cpp.o	b0ecd3ceb244138f
+1045	1138	1664677086032414891	programming_challenges_solution	b7b71bd315512277
+4	788	1664677630886261463	CMakeFiles/programming_challenges_solution.dir/main.cpp.o	b0ecd3ceb244138f
+6	800	1664677630899283980	CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/solution.cpp.o	f7f7f7449ab094e4
+801	913	1664677631015175519	programming_challenges_solution	b7b71bd315512277

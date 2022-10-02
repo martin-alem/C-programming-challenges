@@ -46,23 +46,17 @@ cmake_ninja_workdir = /Users/martinalemajoh/Documents/programming-challanges-sol
 
 build cmake_object_order_depends_target_programming_challenges_solution: phony || CMakeFiles/programming_challenges_solution.dir
 
-build CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/sum_of_two_numbers.cpp.o: CXX_COMPILER__programming_challenges_solution_Debug /Users/martinalemajoh/Documents/programming-challanges-solution/chapter$ 2$ Introduction$ To$ c++/sum_of_two_numbers.cpp || cmake_object_order_depends_target_programming_challenges_solution
-  DEP_FILE = CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/sum_of_two_numbers.cpp.o.d
-  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++11
-  OBJECT_DIR = CMakeFiles/programming_challenges_solution.dir
-  OBJECT_FILE_DIR = CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++
-
-build CMakeFiles/programming_challenges_solution.dir/Chapter_3_Expression_and_Interactivity/sales_prediction.cpp.o: CXX_COMPILER__programming_challenges_solution_Debug /Users/martinalemajoh/Documents/programming-challanges-solution/Chapter$ 3$ Expression$ and$ Interactivity/sales_prediction.cpp || cmake_object_order_depends_target_programming_challenges_solution
-  DEP_FILE = CMakeFiles/programming_challenges_solution.dir/Chapter_3_Expression_and_Interactivity/sales_prediction.cpp.o.d
-  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++11
-  OBJECT_DIR = CMakeFiles/programming_challenges_solution.dir
-  OBJECT_FILE_DIR = CMakeFiles/programming_challenges_solution.dir/Chapter_3_Expression_and_Interactivity
-
 build CMakeFiles/programming_challenges_solution.dir/main.cpp.o: CXX_COMPILER__programming_challenges_solution_Debug /Users/martinalemajoh/Documents/programming-challanges-solution/main.cpp || cmake_object_order_depends_target_programming_challenges_solution
   DEP_FILE = CMakeFiles/programming_challenges_solution.dir/main.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++11
   OBJECT_DIR = CMakeFiles/programming_challenges_solution.dir
   OBJECT_FILE_DIR = CMakeFiles/programming_challenges_solution.dir
+
+build CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/solution.cpp.o: CXX_COMPILER__programming_challenges_solution_Debug /Users/martinalemajoh/Documents/programming-challanges-solution/chapter$ 2$ Introduction$ To$ c++/solution.cpp || cmake_object_order_depends_target_programming_challenges_solution
+  DEP_FILE = CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/solution.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/programming_challenges_solution.dir
+  OBJECT_FILE_DIR = CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++
 
 
 # =============================================================================
@@ -72,7 +66,7 @@ build CMakeFiles/programming_challenges_solution.dir/main.cpp.o: CXX_COMPILER__p
 #############################################
 # Link the executable programming_challenges_solution
 
-build programming_challenges_solution: CXX_EXECUTABLE_LINKER__programming_challenges_solution_Debug CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/sum_of_two_numbers.cpp.o CMakeFiles/programming_challenges_solution.dir/Chapter_3_Expression_and_Interactivity/sales_prediction.cpp.o CMakeFiles/programming_challenges_solution.dir/main.cpp.o
+build programming_challenges_solution: CXX_EXECUTABLE_LINKER__programming_challenges_solution_Debug CMakeFiles/programming_challenges_solution.dir/main.cpp.o CMakeFiles/programming_challenges_solution.dir/chapter_2_Introduction_To_c++/solution.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/programming_challenges_solution.dir
   POST_BUILD = :
